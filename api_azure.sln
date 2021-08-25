@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_azure.common", "api_azure.common\api_azure.common.csproj", "{B0740BE5-8968-492C-AAD6-56CF6CEA59F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api_azure.functions", "api_azure.functions\api_azure.functions.csproj", "{38A65D07-B712-493E-8FEE-1A08CAE549EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_azure.functions", "api_azure.functions\api_azure.functions.csproj", "{38A65D07-B712-493E-8FEE-1A08CAE549EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api_azure.test", "api_azure.test\api_azure.test.csproj", "{016C1B86-2920-416D-9631-60CE11EBBDBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_azure.test", "api_azure.test\api_azure.test.csproj", "{016C1B86-2920-416D-9631-60CE11EBBDBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
